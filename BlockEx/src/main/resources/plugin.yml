@@ -1,0 +1,4 @@
+name: BlockEx
+version: '${project.version}'
+main: me.accogliente.blockex.BlockEx
+api-version: 1.19
